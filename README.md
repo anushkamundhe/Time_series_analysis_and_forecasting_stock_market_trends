@@ -1,3 +1,4 @@
+
 # 📈 Time Series Analysis and Forecasting of Stock Market Using ARIMA
 
 This project focuses on predicting future stock market trends using the ARIMA model, implemented in Python via Jupyter Notebook. The final results are visualized using an interactive dashboard in Power BI.
@@ -50,4 +51,14 @@ To forecast future stock prices using time series analysis and ARIMA modeling, a
 ---
 
 ## 📂 Project Structure
+
+├── data/
+│ └── stock_data.csv
+├── notebooks/
+│ └── stock_forecast_arima.ipynb
+├── output/
+│ └── forecast_results.xlsx
+├── dashboard/
+│ └── Stock_Prediction_PowerBI.pbix
+├── README.md
 
